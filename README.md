@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Okkimaze
-- 👀 I’m interested in learning Front end developing  
+- 👀 I’m interested in learning Front End Developing  
 - 🌱 I’m currently learning BS Computer Science
-- 💞️ I’m looking to collaborate on Designing and front end developing projects
+- 💞️ I’m looking to collaborate on Designing and Front end developing projects
 - 📫 How to reach me ...
 
 <!---
